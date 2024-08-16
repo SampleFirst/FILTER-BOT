@@ -2,7 +2,7 @@ Pyrofork
 tgcrypto
 requests
 bs4
-shortuuid  # Assuming you meant shortuuid instead of shortzy
+shortzy
 datetime
 pytz
 aiohttp
