@@ -44,7 +44,7 @@ pyromod
 openai
 git+https://github.com/Joelkb/cinemagoer
 
-Changes made:
+#Changes made:
  * Removed duplicate entries for requests and pytz.
  * Corrected shortzy to shortuuid (assuming it's a typo).
  * Highlighted the choice between yt-dlp and youtube-dl with a note about legal considerations.
