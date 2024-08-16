@@ -7,7 +7,6 @@ datetime
 pytz
 aiohttp
 yt-dlp  # Choose one: yt-dlp or youtube-dl (consider legal implications)
-requests  # Duplicate, can be removed if not needed
 ytthumb
 jinja2
 apscheduler
@@ -17,7 +16,6 @@ numpy
 wheel
 ujson
 wget  # Consider alternatives for Pythonic file downloading
-pytz  # Duplicate, can be removed if not needed
 aiofiles
 hachoir
 python-decouple
