@@ -44,9 +44,9 @@ pyromod
 openai
 git+https://github.com/Joelkb/cinemagoer
 
-#Changes made:
- * Removed duplicate entries for requests and pytz.
- * Corrected shortzy to shortuuid (assuming it's a typo).
- * Highlighted the choice between yt-dlp and youtube-dl with a note about legal considerations.
- * Flagged wget and suggested exploring Pythonic alternatives for file downloading.
- * Mentioned the potential of removing umongo depending on your specific MongoDB usage.
+# Changes made:
+ # Removed duplicate entries for requests and pytz.
+ # Corrected shortzy to shortuuid (assuming it's a typo).
+ # Highlighted the choice between yt-dlp and youtube-dl with a note about legal considerations.
+ # Flagged wget and suggested exploring Pythonic alternatives for file downloading.
+ # Mentioned the potential of removing umongo depending on your specific MongoDB usage.
